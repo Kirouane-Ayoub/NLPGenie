@@ -9,6 +9,7 @@
 
                 DSPY based
 ```
+![1707471817175](https://github.com/Kirouane-Ayoub/NLPGenie/assets/99510125/393577f4-18bd-4d85-994c-befc31a6826a)
 
 ## Overview
 
